@@ -28,4 +28,23 @@
 | Associate | Specialist | Senior Specialist | Assistant Manager | Manager |
 | --- | --- | --- | --- | --- |
 
+## shift
+![shift](https://github.com/stephanie0324/Operation-Research-2020/blob/master/Case%201/截圖%202020-03-08%20下午7.03.30.png)
 
+## demand
+![demand](https://github.com/stephanie0324/Operation-Research-2020/blob/master/Case%201/截圖%202020-03-08%20下午7.03.44.png)
+
+## CSRs
+![CSRs](https://github.com/stephanie0324/Operation-Research-2020/blob/master/Case%201/截圖%202020-03-08%20下午7.03.59.png)
+
+## senior limit
+![senior limit](https://github.com/stephanie0324/Operation-Research-2020/blob/master/Case%201/截圖%202020-03-08%20下午7.04.06.png)
+
+## manager limit
+![manager limit](https://github.com/stephanie0324/Operation-Research-2020/blob/master/Case%201/截圖%202020-03-08%20下午7.04.12.png)
+
+## leave request
+![leave request](https://github.com/stephanie0324/Operation-Research-2020/blob/master/Case%201/截圖%202020-03-08%20下午7.04.19.png)
+
+## shift request
+![shift request](https://github.com/stephanie0324/Operation-Research-2020/blob/master/Case%201/截圖%202020-03-08%20下午7.04.26.png)
