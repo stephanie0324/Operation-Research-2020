@@ -26,6 +26,10 @@
 | Associate | Specialist | Senior Specialist | Assistant Manager | Manager |
 | --- | --- | --- | --- | --- |
 
+## Code
+我們有寫出檢查我們生出的班表是否符合所有規定，以及透過自動產出班表與檢查差距是否最小化的程式並將最終班表產出。
+因為不知道最小值是什麼，所以只能使用暴力方法跑很多次組合之後最小的那一個班表。
+
 ## 補充圖檔
 
 ### shift
