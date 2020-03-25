@@ -19,3 +19,7 @@
         * minimization - positive numbers
     5. Unbounded LPs
     6.Infeasible LPs
+## Week 4 (3/26) - Application of linear programming
+    1. Material Blending
+    2. Linearizing maximum/ minimum function
+    3. Linearizing constraints
