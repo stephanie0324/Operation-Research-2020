@@ -24,3 +24,7 @@
     2. Linearizing maximum/ minimum function
          * linearizing constraints
     3. AMPL
+        * cd '' ;
+        * model ;
+        * data ;
+        * solve ;
