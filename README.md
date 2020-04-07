@@ -33,15 +33,26 @@
      1. Primal-dual pairs
         * original -> primal , new -> dual
         * find upper bound
-            a. prima; max => dual min
-            b. primal objectives  vs dual RHS
-                positive -> " >= " 
-                negatuve -> " <= "
-                free     -> " == "
-            c. primal RHS => dual objectives
-                >= -> " <=0 "
-                <= -> " >=0 "
-                == -> free variable
+           < primal max => dual min >
+                a. primal objectives  vs dual RHS
+                    positive -> " >= " 
+                    negatuve -> " <= "
+                    free     -> " == "
+                b. primal RHS => dual objectives
+                    >= -> " <=0 "
+                    <= -> " >=0 "
+                    == -> free variable
+            < primal min => dual max>
+                all reverse
+| obj.fun. | max | min | obj.fun. |
+|---------:|----:|----:|---------:|
+| constraints | <= | >=0 | variables |
+|             | >= | <=0 |           |
+|             | == | free |          |
+| variables   | >=0 | >= | constraints |
+|             | <=0 | <= |             |
+|             | free | == |            |
+
            
         * original -> primal , new -> dual
         * find upper bound
