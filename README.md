@@ -39,10 +39,10 @@
         * original -> primal , new -> dual
         * find upper bound
         
-| primal "max" => dual "min"                   |
+| *primal "max" => dual "min"*                 |
 |---------------------------------------------:|
-| primal "objectives" (x1 ,x2 ...) => dual RHS |
-| primal "RHS" => dual objectives (y1 ,y2 ...) |
+| *primal "objectives" (x1 ,x2 ...) => dual RHS* |
+| *primal "RHS" => dual objectives (y1 ,y2 ...)* |
      
      
      2. Duality theorems
