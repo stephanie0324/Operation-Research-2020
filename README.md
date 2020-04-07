@@ -56,5 +56,4 @@
 |             | free | == |            |
 
      2. Duality theorems
-     
      3. Shadow prices
