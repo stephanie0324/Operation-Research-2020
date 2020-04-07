@@ -31,7 +31,20 @@
 
 ## Week 5 (4/9) - Linear Program Duality
      1. Primal-dual pairs
-         * original -> primal , new -> dual
-         * find upper bound
+        * original -> primal , new -> dual
+        * find upper bound
+            a. positive -> " >= " 
+            b. negatuve -> " <= "
+            c. free     -> " == "
+        * original -> primal , new -> dual
+        * find upper bound
+        
+| primal "max" => dual "min"                   |
+|---------------------------------------------:|
+| primal "objectives" (x1 ,x2 ...) => dual RHS |
+| primal "RHS" => dual objectives (y1 ,y2 ...) |
+     
+     
      2. Duality theorems
+     
      3. Shadow prices
