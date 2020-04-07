@@ -44,6 +44,8 @@
                     == -> free variable
             < primal min => dual max>
                 all reverse
+        * original -> primal , new -> dual
+        * find upper bound
 | obj.fun. | max | min | obj.fun. |
 |---------:|----:|----:|---------:|
 | constraints | <= | >=0 | variables |
@@ -53,12 +55,6 @@
 |             | <=0 | <= |             |
 |             | free | == |            |
 
-           
-        * original -> primal , new -> dual
-        * find upper bound
-        
-     
-     
      2. Duality theorems
      
      3. Shadow prices
