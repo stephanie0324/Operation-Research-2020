@@ -29,4 +29,9 @@
         * data ;
         * solve ;
 
-## Week 5 (4/9) - Linear Program Dualit
+## Week 5 (4/9) - Linear Program Duality
+     1. Primal-dual pairs
+         * original -> primal , new -> dual
+         * find upper bound
+     2. Duality theorems
+     3. Shadow prices
