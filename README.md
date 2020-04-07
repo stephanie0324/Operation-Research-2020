@@ -33,16 +33,19 @@
      1. Primal-dual pairs
         * original -> primal , new -> dual
         * find upper bound
-            a. positive -> " >= " 
-            b. negatuve -> " <= "
-            c. free     -> " == "
+            a. prima; max => dual min
+            b. primal objectives  vs dual RHS
+                positive -> " >= " 
+                negatuve -> " <= "
+                free     -> " == "
+            c. primal RHS => dual objectives
+                >= -> " <=0 "
+                <= -> " >=0 "
+                == -> free variable
+           
         * original -> primal , new -> dual
         * find upper bound
         
-| *primal "max" => dual "min"*                 |
-|---------------------------------------------:|
-| *primal "objectives" (x1 ,x2 ...) => dual RHS* |
-| *primal "RHS" => dual objectives (y1 ,y2 ...)* |
      
      
      2. Duality theorems
