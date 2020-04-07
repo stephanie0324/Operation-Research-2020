@@ -29,4 +29,4 @@
         * data ;
         * solve ;
 
-## Week 5 (4/9) - Linear Program Duality
+## Week 5 (4/9) - Linear Program Dualit
