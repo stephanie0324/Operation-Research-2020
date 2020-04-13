@@ -57,4 +57,4 @@
 
      2. Duality theorems
      3. Shadow prices
-     
+     4. Case 2
