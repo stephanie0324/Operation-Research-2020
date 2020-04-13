@@ -26,4 +26,4 @@
 1. Formulate the mathematical Linear Program
 2. AMPL or Gurobi for the LP
 3. Summarize the result
-4.Generate a plot depicting the total lack amounts when the number of CSRs is 35, 36, …, and 45. Then make some comments on whether the company should increase or decrease the number of CSRs
+4. Generate a plot depicting the total lack amounts when the number of CSRs is 35, 36, …, and 45. Then make some comments on whether the company should increase or decrease the number of CSRs
