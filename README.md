@@ -59,4 +59,4 @@
      3. Shadow prices
      4. Case 2
 
-## W
+## Week 6 (4/16) -
