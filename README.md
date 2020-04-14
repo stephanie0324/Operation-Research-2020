@@ -59,4 +59,10 @@
      3. Shadow prices
      4. Case 2
 
-## Week 6 (4/16) -
+## Week 6 (4/16) - Linear Relaxation
+        1. Linear relaxation - resulting Lp after removing all the integer constraints.
+            * solving IP(integer program)
+                    > for minimization it provides lower bound
+                    > for maximization it provides upper bound
+        2. Branch and bound
+        3. Ip formulation
