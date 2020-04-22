@@ -66,3 +66,12 @@
                     > for maximization it provides upper bound
         2. Branch and bound
         3. Ip formulation
+## Week 7 (4/23) - Application of Integer Programming
+        1. Facilities location problems 
+            * maximum covering problem 
+            * fixed charge location problem
+        2. Machine scheduling problems
+            * minimizing total tardiness(延遲) on a single machine
+            * minimizing makespan on parrallel machines
+        3. Vehicle routing problems
+        
