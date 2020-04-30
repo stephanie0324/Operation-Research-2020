@@ -76,4 +76,6 @@
         3. Vehicle routing problems
         
 ## Week 8 (4/30) - Non-Linear Programming
-        1.
+        1. Introduction
+        2.
+
