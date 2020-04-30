@@ -77,5 +77,8 @@
         
 ## Week 8 (4/30) - Non-Linear Programming
         1. Introduction
-        2.
+            * convex analytics
+            * extreme points & optimal solutions
+            * solving single variate NLP
+        2. The EOQ model
 
