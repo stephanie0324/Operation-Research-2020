@@ -82,3 +82,6 @@
             * solving single variate NLP
         2. The EOQ model
 
+## Week 9 (5/7) - Non-Linear Programming : Theory
+        1. Multi-variateconvex analysis
+            *
