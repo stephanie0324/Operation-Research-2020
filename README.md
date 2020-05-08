@@ -84,4 +84,7 @@
 
 ## Week 9 (5/7) - Non-Linear Programming : Theory
         1. Multi-variateconvex analysis
-            *
+            * gradient and hessian
+            * positive-semi-definite
+        2
+       
