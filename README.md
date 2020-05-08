@@ -86,5 +86,12 @@
         1. Multi-variateconvex analysis
             * gradient and hessian
             * positive-semi-definite
-        2
+        2. Solving constrained NLP
+            * Relaxation with rewards
+            * Lagrangian relaxation
+            * Lagrangian duality
+        3. Application
+            * multi-product EOQ problem
+         
+      
        
