@@ -93,5 +93,8 @@
         3. Application
             * multi-product EOQ problem
          
-      
+## Week 10 (5/14) - Multi-variate NLP : Alogorithms
+    1. Overview
+    2. Gradient descent
+    3. Newton's method
        
