@@ -98,3 +98,6 @@
     2. Gradient descent
     3. Newton's method
        
+## Week 11 (5/21) - Dynamic Programming
+    1. Deterministic dynamic programming
+    2. Stochastic dynammic programming
